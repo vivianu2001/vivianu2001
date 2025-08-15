@@ -47,11 +47,11 @@ Implementation of core OS concepts such as process scheduling and memory managem
 
 ### 6. 🖥️ Additional Programming Projects
 
-- **C++ – [Catan Game 🎲🛤️](https://github.com/vivianu2001/CATAN_GAME):**  
+- **C++ - [Catan Game 🎲🛤️](https://github.com/vivianu2001/CATAN_GAME):**  
   Simplified *Settlers of Catan* implementation with resource gathering, trading, building, and development cards.  
   **Tech:** C++17, STL
 
-- **Java – [OOP Thread Scheduling Assignment](https://github.com/vivianu2001/OOP.ASSIGNMENT2_PART_2):**  
+- **Java - [OOP Thread Scheduling Assignment](https://github.com/vivianu2001/OOP.ASSIGNMENT2_PART_2):**  
   Implementation of a custom `Task` class extending `FutureTask` with priority scheduling using `Comparable`. Demonstrates thread prioritization and task management in JVM’s preemptive scheduling model.  
   **Tech:** Java, OOP, Concurrency
 
