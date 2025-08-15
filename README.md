@@ -15,7 +15,7 @@ Includes multiple mini-games, voice assisted instructions, and accessibility fea
 ---
 
 ### 2. 🧠 [Participatory Budgeting with PB-EAR](https://github.com/vivianu2001/pb-ear-flask-site)
-Full-stack implementation and web demonstration of the **PB-EAR** algorithm -  
+Full-stack implementation and web demonstration of the **PB-EAR** algorithm - 
 a fair public budget allocation method based on community preferences.
 
 - Developed as part of the *Research Algorithms* course.  
@@ -59,4 +59,4 @@ Implementation of core OS concepts such as process scheduling and memory managem
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/vivian-umansky) | [Email](mailto:umanskyvivian@gmail.com)
+ 💻[LinkedIn](https://www.linkedin.com/in/vivian-umansky) | 📧 [Email](mailto:umanskyvivian@gmail.com)
